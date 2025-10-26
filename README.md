@@ -15,3 +15,15 @@ This project is about analysing the blinkit's retails store data to understand h
 
 ---
 
+# 🧹 Data Cleaning and EDA 
+
+All the preprocessing and expolatory analysis were done in the python using pandas , numpy , matplolib and seaborn
+
+Steps Performed :
+- Handelled the missing values by filling them using mean/mode in the numeric columns.
+- Handelled the missing values by filling Unknown in the string columns.
+- Converted the data types of the columns.
+- Gathered insights by performing some basics visuaization in EDA
+- Generated summary satistics using describe() and Correlation analysis.
+
+---
