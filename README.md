@@ -10,8 +10,8 @@ This project is about analysing the blinkit's retails store data to understand h
 ---
 # 📁 Dataset Details 
 
-Rows : Over 8,000
-Columns Name : Item Types , Outlet Type , Outlet Location , Item Weight , Year of establishment , Sales , Outlet size 
+.Rows : Over 8,000
+.Columns Name : Item Types , Outlet Type , Outlet Location , Item Weight , Year of establishment , Sales , Outlet size 
 
 ---
 
