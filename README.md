@@ -27,3 +27,9 @@ Steps Performed :
 - Generated summary satistics using describe() and Correlation analysis.
 
 ---
+
+# 🧠 Key Insights 
+
+**1. Low Fat Items Drive Revenue**
+ - Item labeled as low fat are outperforming regular fat items in terms of total revenue.
+ - 💡Insigt - Custumers seems to prefer healthier option - Marketing and inventary can focus more on low fat items for SKUs .
