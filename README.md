@@ -52,13 +52,15 @@ Steps Performed :
 
 ---
 
-# 📒 Lesoon Learned
+# 📒 Lesson Learned
 
 These are the lesson i have leared while doing this project 
 
 - Cleaning datais very importnat before doing an vsulaization because ane null value can affect the insights.
 - In Creating visualization each plolt should be relevant .
 
-# 🧰 Toola Used
+# 🧰 Tools Used
 
-**1. Python -** 
+**1. Python -** Jupyter notebook is used as the notebook of this project 
+**2.Libraries -** Pandas , Numpy , Matplotlib and Seaborn are the librarises which udes for visalization , cleaning and data manipulation .
+**3. EDA -** Expolatory Data Analysis(EDA) is used for craeting visualization and gathering insights with the help of visuals.
