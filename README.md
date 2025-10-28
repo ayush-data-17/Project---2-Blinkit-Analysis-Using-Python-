@@ -68,3 +68,15 @@ These are the lesson i have leared while doing this project
 
 
 **3. EDA -** Expolatory Data Analysis(EDA) is used for craeting visualization and gathering insights with the help of visuals.
+
+---
+
+# 🔗 Connect With Me**
+
+- **Author:** Ayush Lohat
+- **Linkdin:** www.linkedin.com/in/ayush-lohat-463187381
+- **GitHub:** https://github.com/ayush-data-17
+
+---
+
+🌟Thanks for 
