@@ -62,5 +62,9 @@ These are the lesson i have leared while doing this project
 # 🧰 Tools Used
 
 **1. Python -** Jupyter notebook is used as the notebook of this project 
+
+
 **2.Libraries -** Pandas , Numpy , Matplotlib and Seaborn are the librarises which udes for visalization , cleaning and data manipulation .
+
+
 **3. EDA -** Expolatory Data Analysis(EDA) is used for craeting visualization and gathering insights with the help of visuals.
