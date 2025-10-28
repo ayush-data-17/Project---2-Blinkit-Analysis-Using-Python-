@@ -28,8 +28,37 @@ Steps Performed :
 
 ---
 
-# 🧠 Key Insights 
+# 🧠 Key Insights And Recommandatioins 
 
 **1. Low Fat Items Drive Revenue**
  - Item labeled as low fat are outperforming regular fat items in terms of total revenue.
- - 💡Insigt - Custumers seems to prefer healthier option - Marketing and inventary can focus more on low fat items for SKUs .
+ - 💡Insigts - Custumers seems to prefer healthier option - Marketing and inventary can focus more on low fat items for SKUs .
+
+**2.Medium-Size Outlet Are Performing Best**
+- Medium size oulets are performing best than the large sized oulets in term of revenue genrating.
+- 💡Insigts - Resource optimization in large outlets might be required; perhaps customer density or operating costs affect profitability.
+
+**3. Teir 3 Cities Outperform Tier 1**
+- Surprisingly teir 3 cites are showing massive numbers than the teir 1 citiess in term of revenue.
+- 💡Insigts - Tier 3 markets could represent untapped growth potential; marketing campaigns can be targeted here.
+
+**4. Supermarket Type 1 Leading In The Sales**
+- Among all oulet type supermarket type 1 are leading in terms of revenue than the others.
+- 💡Insigts - This market have an optimal product mix or pricing models . This might be a great benchmark for other also.
+
+**5. Top And Bottom Performing Items**
+- Food and Vegetabble and snacks are performing best in the revenue while sea food is performing least.
+- 💡Insigts - Inventary of Food and vegetable and snacks should be in more focus while should thnik about the item sea food whether to discard it or not.
+
+---
+
+# 📒 Lesoon Learned
+
+These are the lesson i have leared while doing this project 
+
+- Cleaning datais very importnat before doing an vsulaization because ane null value can affect the insights.
+- In Creating visualization each plolt should be relevant .
+
+# 🧰 Toola Used
+
+**1. Python -** 
