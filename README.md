@@ -79,4 +79,4 @@ These are the lesson i have leared while doing this project
 
 ---
 
-🌟Thanks for 
+🌟Thanks for exploring this project . If you have any further suggestion for me regarding this  project so please let me know you are welcome with your thoughts.
